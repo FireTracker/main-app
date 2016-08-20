@@ -1,1 +1,3 @@
-# main-app
+# tmpapp
+
+a [Sails](http://sailsjs.org) application
